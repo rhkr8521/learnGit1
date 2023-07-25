@@ -1,4 +1,4 @@
-#learn git
+#learn git and learn Git2
 
 hello world!
 
